@@ -1,0 +1,2 @@
+Java file I/O is powerful.
+It makes data handling easy.

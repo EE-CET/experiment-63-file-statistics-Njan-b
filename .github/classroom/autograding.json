@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test File Statistics",
+      "setup": "javac src/FileStats.java",
+      "run": "java -cp src FileStats",
+      "input": "",
+      "output": "Lines: 2\r?\nWords: 10\r?\nCharacters: 54",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
